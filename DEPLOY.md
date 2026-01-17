@@ -1,5 +1,8 @@
 # Deploy con Docker
 
+## Link del repo principal
+- Link: `https://github.com/RonyChang/Deploy-Backend-h16`
+
 ## Requisitos
 - Docker Desktop.
 - MongoDB.
@@ -16,3 +19,5 @@
    `docker stop hackaton16-chat`
    `docker rm hackaton16-chat`
 
+## Render con Docker
+- Link: `https://deploy-backend-h16.onrender.com/`
